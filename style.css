@@ -1,6 +1,16 @@
-body
-{
- background-color : cyan;
-
+body{
+ background: cyan;
+ color:#D889C3;
+ width:100%;
+ font-family:sans-serif;
+ margin:0 auto;
 }
+
+.header{
+ width:90%;
+ margin:auto;
+ height:120px;
+ line-height:120px;
+ background:#D0ABCC;
+ color:copri
 
